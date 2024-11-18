@@ -15,12 +15,16 @@ Navigate to the project directory:
 bash
 Copy code
 cd <project-folder>
+
+
 3. Install Dependencies
 Install the required Node.js packages listed in package.json:
 
 bash
 Copy code
 npm install
+
+
 4. Set Up the Environment
 Create a .env file in the root directory:
 
